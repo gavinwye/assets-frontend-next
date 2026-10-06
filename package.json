@@ -26,6 +26,6 @@
   "devDependencies": {
     "glob": "^7.1.1",
     "node-sass": "^3.11.2",
-    "nunjucks": "^2.5.2"
+    "nunjucks": "^3.2.4"
   }
 }
