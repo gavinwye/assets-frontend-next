@@ -19,7 +19,7 @@
   },
   "dependencies": {
     "govuk-elements-sass": "^2.1.0",
-    "jquery": "^1.11.2",
+    "jquery": "^4.0.0",
     "browserify": "^13.1.1",
     "fs-extra": "^1.0.0"
   },
